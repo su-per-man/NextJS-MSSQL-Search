@@ -1,3 +1,17 @@
+## Output
+1. Initial Loading
+
+![image](https://user-images.githubusercontent.com/48619027/206876307-7e11b9ad-f7e2-4fc7-aa18-d9d17ad5b687.png)
+
+2. Search with lastname
+
+![image](https://user-images.githubusercontent.com/48619027/206876359-7309ee4c-f225-4a16-8d4f-984166fddc49.png)
+
+3. Search without any text - Loads all the employee data
+
+![image](https://user-images.githubusercontent.com/48619027/206876324-5abb09fe-2733-45f4-b415-6694fdaa0e7d.png)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
